@@ -1,0 +1,65 @@
+.todo-container {
+  color: #fff;
+  background: #000;
+  border-radius: 10px;
+  width: 60vw;
+  margin: 5em auto;
+  padding: 15px;
+}
+
+.header {
+  text-align: center;
+  font-size: 2em;
+}
+
+.input-container {
+  background: #000;
+  border: 2px gray;
+  border-radius: 1em;
+  padding: .5em;
+}
+
+.input {
+  font: size 1.5em;
+  color: #000;
+  background-color: #fff;
+  border: 1px;
+  border-radius: 1em;
+  width: 85%;
+  margin: 1em;
+  padding: .5em;
+  font-weight: bold;
+}
+
+.add-btn {
+  cursor: pointer;
+  color: #000;
+  background-color: #7fffd4;
+  border: none;
+  border-radius: 5px;
+  margin: 0 15px;
+  font-size: 2em;
+}
+
+.list-task {
+  color: #7fffd4;
+  background-color: #000;
+  border: 1px solid #ff0;
+  border-radius: 5px;
+  margin: .5em;
+  padding: .5em;
+  font-size: 1.25em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.delete-btn {
+  cursor: pointer;
+  color: #000;
+  float: right;
+  background-color: #7fffd4;
+  border: none;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=index.c5b9b1bb.css.map */
